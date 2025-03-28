@@ -1,0 +1,73 @@
+{
+  "common": {
+    "home": "Home",
+    "services": "Services",
+    "tools": "Tools",
+    "history": "History",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "getStarted": "Get Started",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "logout": "Logout",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "security": "Security",
+    "billing": "Billing",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "actions": "Actions",
+    "status": "Status",
+    "date": "Date",
+    "time": "Time",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Submit",
+    "required": "Required",
+    "optional": "Optional"
+  },
+  "home": {
+    "hero": {
+      "title": "Elevate Your Career with AI-Powered Tools",
+      "subtitle": "Create perfect CVs, compelling cover letters, and prepare for interviews with our AI assistant",
+      "cta": "Get Started for Free"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Comprehensive AI-powered tools for your career success",
+    "features": {
+      "aiPowered": {
+        "title": "AI-Powered",
+        "description": "Advanced AI technology that understands your needs and industry requirements"
+      },
+      "personalized": {
+        "title": "Personalized",
+        "description": "Tailored content that matches your unique skills and career goals"
+      },
+      "secure": {
+        "title": "Secure",
+        "description": "Your data is protected with enterprise-grade security measures"
+      }
+    }
+  }
+}

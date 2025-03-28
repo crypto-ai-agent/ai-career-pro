@@ -1,0 +1,176 @@
+{
+  "common": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "tools": "Werkzeuge",
+    "history": "Verlauf",
+    "pricing": "Preise",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "getStarted": "Loslegen",
+    "dashboard": "Dashboard",
+    "settings": "Einstellungen",
+    "logout": "Abmelden",
+    "profile": "Profil",
+    "notifications": "Benachrichtigungen",
+    "security": "Sicherheit",
+    "billing": "Abrechnung",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "update": "Aktualisieren",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "confirm": "Bestätigen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "finish": "Fertigstellen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "actions": "Aktionen",
+    "status": "Status",
+    "date": "Datum",
+    "time": "Uhrzeit",
+    "name": "Name",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "submit": "Absenden",
+    "required": "Erforderlich",
+    "optional": "Optional"
+  },
+  "home": {
+    "hero": {
+      "title": "Entwickeln Sie Ihre Karriere mit KI-gestützten Tools",
+      "subtitle": "Erstellen Sie perfekte Lebensläufe, überzeugende Anschreiben und bereiten Sie sich auf Vorstellungsgespräche mit unserem KI-Assistenten vor",
+      "cta": "Kostenlos starten"
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "description": "Umfassende KI-gestützte Tools für Ihren beruflichen Erfolg",
+    "features": {
+      "aiPowered": {
+        "title": "KI-gestützt",
+        "description": "Fortschrittliche KI-Technologie, die Ihre Bedürfnisse und die Anforderungen der Branche versteht"
+      },
+      "personalized": {
+        "title": "Personalisiert",
+        "description": "Maßgeschneiderte Inhalte, die zu Ihren einzigartigen Fähigkeiten und Karrierezielen passen"
+      },
+      "secure": {
+        "title": "Sicher",
+        "description": "Ihre Daten sind mit Unternehmenssicherheitsmaßnahmen geschützt"
+      }
+    }
+  },
+  "tools": {
+    "cvOptimizer": {
+      "title": "Lebenslauf-Optimierer",
+      "description": "Optimieren Sie Ihren Lebenslauf, um Ihre Chancen zu maximieren",
+      "form": {
+        "currentCV": "Aktueller Lebenslauf",
+        "targetRole": "Zielposition",
+        "industry": "Branche",
+        "experienceLevel": "Erfahrungsniveau",
+        "keySkills": "Schlüsselkompetenzen"
+      }
+    },
+    "coverLetter": {
+      "title": "Anschreiben-Generator",
+      "description": "Erstellen Sie personalisierte Anschreiben",
+      "form": {
+        "jobTitle": "Stellenbezeichnung",
+        "company": "Unternehmen",
+        "keySkills": "Schlüsselkompetenzen",
+        "experience": "Relevante Erfahrung",
+        "tone": "Ton",
+        "length": "Länge"
+      }
+    },
+    "email": {
+      "title": "E-Mail-Vorbereiter",
+      "description": "Verfassen Sie professionelle E-Mails",
+      "form": {
+        "emailType": "E-Mail-Typ",
+        "recipient": "Empfänger",
+        "subject": "Betreff",
+        "content": "Inhalt"
+      }
+    },
+    "interview": {
+      "title": "Interview-Coach",
+      "description": "Bereiten Sie sich mit KI auf Vorstellungsgespräche vor",
+      "form": {
+        "interviewType": "Interview-Typ",
+        "role": "Rolle",
+        "industry": "Branche",
+        "experienceLevel": "Erfahrungsniveau"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Pläne und Preise",
+    "description": "Wählen Sie den Plan, der zu Ihnen passt",
+    "plans": {
+      "free": {
+        "name": "Kostenlos",
+        "description": "Zum Einstieg"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Für Profis"
+      },
+      "enterprise": {
+        "name": "Unternehmen",
+        "description": "Für Teams"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Anmelden",
+      "subtitle": "Melden Sie sich in Ihrem Konto an",
+      "forgotPassword": "Passwort vergessen?",
+      "noAccount": "Noch kein Konto?"
+    },
+    "signup": {
+      "title": "Registrieren",
+      "subtitle": "Erstellen Sie Ihr Konto",
+      "hasAccount": "Haben Sie bereits ein Konto?"
+    },
+    "resetPassword": {
+      "title": "Passwort zurücksetzen",
+      "subtitle": "Geben Sie Ihre E-Mail-Adresse ein, um Ihr Passwort zurückzusetzen"
+    }
+  },
+  "dashboard": {
+    "welcome": "Willkommen auf Ihrem Dashboard",
+    "stats": {
+      "documentsCreated": "Erstellte Dokumente",
+      "interviews": "Interviews",
+      "usageLimit": "Nutzungslimit"
+    }
+  },
+  "settings": {
+    "profile": {
+      "title": "Profil",
+      "personalInfo": "Persönliche Informationen"
+    },
+    "security": {
+      "title": "Sicherheit",
+      "password": "Passwort",
+      "twoFactor": "Zwei-Faktor-Authentifizierung"
+    },
+    "notifications": {
+      "title": "Benachrichtigungen",
+      "emailPreferences": "E-Mail-Einstellungen"
+    }
+  }
+}

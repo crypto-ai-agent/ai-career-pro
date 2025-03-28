@@ -1,0 +1,176 @@
+{
+  "common": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "tools": "Herramientas",
+    "history": "Historial",
+    "pricing": "Precios",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "getStarted": "Comenzar",
+    "dashboard": "Panel de control",
+    "settings": "Configuración",
+    "logout": "Cerrar sesión",
+    "profile": "Perfil",
+    "notifications": "Notificaciones",
+    "security": "Seguridad",
+    "billing": "Facturación",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "confirm": "Confirmar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "finish": "Terminar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "actions": "Acciones",
+    "status": "Estado",
+    "date": "Fecha",
+    "time": "Hora",
+    "name": "Nombre",
+    "email": "Email",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "submit": "Enviar",
+    "required": "Requerido",
+    "optional": "Opcional"
+  },
+  "home": {
+    "hero": {
+      "title": "Desarrolla tu carrera con herramientas impulsadas por IA",
+      "subtitle": "Crea CV perfectos, cartas de presentación convincentes y prepárate para entrevistas con nuestro asistente de IA",
+      "cta": "Comenzar gratis"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "description": "Herramientas completas impulsadas por IA para tu éxito profesional",
+    "features": {
+      "aiPowered": {
+        "title": "Impulsado por IA",
+        "description": "Tecnología IA avanzada que entiende tus necesidades y los requisitos del sector"
+      },
+      "personalized": {
+        "title": "Personalizado",
+        "description": "Contenido adaptado que se ajusta a tus habilidades únicas y objetivos profesionales"
+      },
+      "secure": {
+        "title": "Seguro",
+        "description": "Tus datos están protegidos con medidas de seguridad de nivel empresarial"
+      }
+    }
+  },
+  "tools": {
+    "cvOptimizer": {
+      "title": "Optimizador de CV",
+      "description": "Optimiza tu CV para maximizar tus oportunidades",
+      "form": {
+        "currentCV": "CV actual",
+        "targetRole": "Puesto objetivo",
+        "industry": "Sector",
+        "experienceLevel": "Nivel de experiencia",
+        "keySkills": "Habilidades clave"
+      }
+    },
+    "coverLetter": {
+      "title": "Generador de cartas de presentación",
+      "description": "Crea cartas de presentación personalizadas",
+      "form": {
+        "jobTitle": "Título del puesto",
+        "company": "Empresa",
+        "keySkills": "Habilidades clave",
+        "experience": "Experiencia relevante",
+        "tone": "Tono",
+        "length": "Longitud"
+      }
+    },
+    "email": {
+      "title": "Preparador de emails",
+      "description": "Redacta emails profesionales",
+      "form": {
+        "emailType": "Tipo de email",
+        "recipient": "Destinatario",
+        "subject": "Asunto",
+        "content": "Contenido"
+      }
+    },
+    "interview": {
+      "title": "Entrenador de entrevistas",
+      "description": "Prepárate para entrevistas con IA",
+      "form": {
+        "interviewType": "Tipo de entrevista",
+        "role": "Puesto",
+        "industry": "Sector",
+        "experienceLevel": "Nivel de experiencia"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Planes y precios",
+    "description": "Elige el plan que mejor se adapte a ti",
+    "plans": {
+      "free": {
+        "name": "Gratis",
+        "description": "Para empezar"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Para profesionales"
+      },
+      "enterprise": {
+        "name": "Empresa",
+        "description": "Para equipos"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar sesión",
+      "subtitle": "Inicia sesión en tu cuenta",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "noAccount": "¿No tienes una cuenta?"
+    },
+    "signup": {
+      "title": "Registrarse",
+      "subtitle": "Crea tu cuenta",
+      "hasAccount": "¿Ya tienes una cuenta?"
+    },
+    "resetPassword": {
+      "title": "Restablecer contraseña",
+      "subtitle": "Ingresa tu email para restablecer tu contraseña"
+    }
+  },
+  "dashboard": {
+    "welcome": "Bienvenido a tu panel de control",
+    "stats": {
+      "documentsCreated": "Documentos creados",
+      "interviews": "Entrevistas",
+      "usageLimit": "Límite de uso"
+    }
+  },
+  "settings": {
+    "profile": {
+      "title": "Perfil",
+      "personalInfo": "Información personal"
+    },
+    "security": {
+      "title": "Seguridad",
+      "password": "Contraseña",
+      "twoFactor": "Autenticación de dos factores"
+    },
+    "notifications": {
+      "title": "Notificaciones",
+      "emailPreferences": "Preferencias de email"
+    }
+  }
+}

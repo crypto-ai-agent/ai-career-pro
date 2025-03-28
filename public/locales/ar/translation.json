@@ -1,0 +1,176 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "tools": "الأدوات",
+    "history": "التاريخ",
+    "pricing": "التسعير",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "login": "تسجيل الدخول",
+    "signup": "التسجيل",
+    "getStarted": "ابدأ الآن",
+    "dashboard": "لوحة التحكم",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "profile": "الملف الشخصي",
+    "notifications": "الإشعارات",
+    "security": "الأمان",
+    "billing": "الفواتير",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجاح",
+    "confirm": "تأكيد",
+    "back": "رجوع",
+    "next": "التالي",
+    "finish": "إنهاء",
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "actions": "الإجراءات",
+    "status": "الحالة",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "submit": "إرسال",
+    "required": "مطلوب",
+    "optional": "اختياري"
+  },
+  "home": {
+    "hero": {
+      "title": "طور مسارك الوظيفي باستخدام أدوات مدعومة بالذكاء الاصطناعي",
+      "subtitle": "أنشئ سير ذاتية مثالية، خطابات تغطية مقنعة، واستعد للمقابلات مع مساعد الذكاء الاصطناعي الخاص بنا",
+      "cta": "ابدأ مجانًا"
+    }
+  },
+  "services": {
+    "title": "خدماتنا",
+    "description": "أدوات شاملة مدعومة بالذكاء الاصطناعي لنجاحك الوظيفي",
+    "features": {
+      "aiPowered": {
+        "title": "مدعوم بالذكاء الاصطناعي",
+        "description": "تقنية ذكاء اصطناعي متقدمة تفهم احتياجاتك ومتطلبات القطاع"
+      },
+      "personalized": {
+        "title": "مخصص",
+        "description": "محتوى مخصص يتناسب مع مهاراتك الفريدة وأهدافك الوظيفية"
+      },
+      "secure": {
+        "title": "آمن",
+        "description": "بياناتك محمية بإجراءات أمان على مستوى المؤسسات"
+      }
+    }
+  },
+  "tools": {
+    "cvOptimizer": {
+      "title": "مُحسّن السيرة الذاتية",
+      "description": "حسّن سيرتك الذاتية لزيادة فرصك",
+      "form": {
+        "currentCV": "السيرة الذاتية الحالية",
+        "targetRole": "الوظيفة المستهدفة",
+        "industry": "القطاع",
+        "experienceLevel": "مستوى الخبرة",
+        "keySkills": "المهارات الرئيسية"
+      }
+    },
+    "coverLetter": {
+      "title": "مُنشئ خطاب التغطية",
+      "description": "أنشئ خطابات تغطية مخصصة",
+      "form": {
+        "jobTitle": "المسمى الوظيفي",
+        "company": "الشركة",
+        "keySkills": "المهارات الرئيسية",
+        "experience": "الخبرة ذات الصلة",
+        "tone": "النبرة",
+        "length": "الطول"
+      }
+    },
+    "email": {
+      "title": "مُعدّد البريد الإلكتروني",
+      "description": "صياغة رسائل بريد إلكتروني احترافية",
+      "form": {
+        "emailType": "نوع البريد الإلكتروني",
+        "recipient": "المستلم",
+        "subject": "الموضوع",
+        "content": "المحتوى"
+      }
+    },
+    "interview": {
+      "title": "مدرب المقابلات",
+      "description": "استعد للمقابلات باستخدام الذكاء الاصطناعي",
+      "form": {
+        "interviewType": "نوع المقابلة",
+        "role": "الوظيفة",
+        "industry": "القطاع",
+        "experienceLevel": "مستوى الخبرة"
+      }
+    }
+  },
+  "pricing": {
+    "title": "الخطط والأسعار",
+    "description": "اختر الخطة التي تناسبك",
+    "plans": {
+      "free": {
+        "name": "مجاني",
+        "description": "لتبدأ"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "للمحترفين"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "للفرق"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "تسجيل الدخول",
+      "subtitle": "سجل الدخول إلى حسابك",
+      "forgotPassword": "هل نسيت كلمة المرور؟",
+      "noAccount": "ليس لديك حساب؟"
+    },
+    "signup": {
+      "title": "التسجيل",
+      "subtitle": "أنشئ حسابك",
+      "hasAccount": "هل لديك حساب بالفعل؟"
+    },
+    "resetPassword": {
+      "title": "إعادة تعيين كلمة المرور",
+      "subtitle": "أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور"
+    }
+  },
+  "dashboard": {
+    "welcome": "مرحبًا بك في لوحة التحكم",
+    "stats": {
+      "documentsCreated": "المستندات التي تم إنشاؤها",
+      "interviews": "المقابلات",
+      "usageLimit": "حد الاستخدام"
+    }
+  },
+  "settings": {
+    "profile": {
+      "title": "الملف الشخصي",
+      "personalInfo": "المعلومات الشخصية"
+    },
+    "security": {
+      "title": "الأمان",
+      "password": "كلمة المرور",
+      "twoFactor": "المصادقة الثنائية"
+    },
+    "notifications": {
+      "title": "الإشعارات",
+      "emailPreferences": "تفضيلات البريد الإلكتروني"
+    }
+  }
+}

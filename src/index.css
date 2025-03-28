@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-white;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl;
+  }
+
+  .section-padding {
+    @apply py-20 px-6 md:px-12 lg:px-24;
+  }
+
+  .card-gradient {
+    background: linear-gradient(135deg, #9b87f5 0%, #7E69AB 100%);
+  }
+}
+
+.glass {
+  @apply bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl;
+}
+
+/* Default light theme variables */
+:root {
+  --background: #13111C;
+  --background-secondary: #221F26;
+  --foreground: #ffffff;
+  --foreground-secondary: #9b87f5;
+}
+
+.dark {
+  --background: #13111C;
+  --background-secondary: #221F26;
+  --foreground: #ffffff;
+  --foreground-secondary: #9b87f5;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+.card {
+  background-color: var(--background-secondary);
+}
